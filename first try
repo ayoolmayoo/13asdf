@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>mayos free time</title>
+	<link rel="stylesheet" type="text/css" href="main.css"/>
+</head>
+<body>
+	<h1>pokemon is only "okay" now</h1>
+	<div class="hero">
+		<h2> oh lordy</h2>
+		<p>A mistake by mayo</p>
+		<a href="#">Read now.</a>
+	</div>
+	<p id="footer">&copy; mayo corp.</p>
+</body>
+</html>
